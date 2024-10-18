@@ -79,7 +79,7 @@ def send_welcome(message):
 - أرسل قائمة من عناوين IP للفحص
 - /help للمساعدة
 
-المطور: @A_1M1_A
+المطور: @SAGD112
     """
     bot.reply_to(message, welcome_text)
 
